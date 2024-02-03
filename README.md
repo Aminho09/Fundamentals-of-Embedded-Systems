@@ -5,7 +5,7 @@
 
 Here's the exercises' content.
 
-Exersice no.
+Exersice no. | Content
 | :---: | :---:
 [Exercise 1](ex1) | Modeling Continuous Dynamics
 [Exercise 2](ex2)
