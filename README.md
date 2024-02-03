@@ -6,8 +6,8 @@
 Here's the exercises' content.
 
 Exersice no.
-| :---: 
-[Exercise 1](ex1)
+| :---: | :---:
+[Exercise 1](ex1) | Modeling Continuous Dynamics
 [Exercise 2](ex2)
 [Exercise 3](ex3)
 [Exercise 4](ex4)
