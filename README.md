@@ -1,7 +1,7 @@
 # Fundamentals-of-Embedded-Systems
 - Embedded Systems' Exercises
 - Fall 2023
-- Instructed by Dr. Seyed Hossein Attarzadeh Niaki
+- Instructed by Dr. Hossein Attarzadeh Niaki
 
 Here's the exercises' content.
 
